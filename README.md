@@ -13,7 +13,7 @@ Hello,<br>My name is **Lowis Roy Figo**. I'm an Engineering Physics student at I
 
 | Metric | Details |
 | :--- | :--- |
-| 🚀 **Main Projects** | [![L4L-Automatic](https://img.shields.io/badge/L4L--Automatic-8A2BE2?style=for-the-badge&logoColor=white)](https://github.com/logoro17/L4L-Automatic] | [![ASCII-Cam](https://img.shields.io/badge/ASCII--Cam-7FFF00?style=for-the-badge&logoColor=white)](https://github.com/logoro17/ASCII-Cam] | [![Link-Lang](https://img.shields.io/badge/Link--Lang-00BFFF?style=for-the-badge&logoColor=white)](https://github.com/logoro17/link-lang)].|
+| 🚀 **Main Projects** | ![L4L-Automatic](https://img.shields.io/badge/L4L--Automatic-8A2BE2?style=for-the-badge&logoColor=white)(https://github.com/logoro17/L4L-Automatic). ![ASCII-Cam](https://img.shields.io/badge/ASCII--Cam-7FFF00?style=for-the-badge&logoColor=white)(https://github.com/logoro17/ASCII-Cam). | [![Link-Lang](https://img.shields.io/badge/Link--Lang-00BFFF?style=for-the-badge&logoColor=white)](https://github.com/logoro17/link-lang)].|
 | 🛠️ **Primary Stack** | C++, Python, JavaScript (Apps Script), Lua |
 | 📊 **Current Focus** | Compiler Design & Renewable Energy IoT |
 | 🔥 **Streak Status** | Maintaining consistency in LinkLang core development |
